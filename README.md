@@ -1,12 +1,31 @@
-# React + Vite
+# 🎨 Anime Avatar Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive web app that lets users generate and customize anime-style avatars. Built with **React.js + Vite**, this project allows random avatar generation, feature customization, and saving/downloading of avatars.
 
-Currently, two official plugins are available:
+🚀 **Live Demo:** [Click Here](https://Dharmendra7878.github.io/Avatar-Generator)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 🎭 Random avatar generation  
+- 🎨 Customize hair, eyes, clothes, and colors  
+- 💾 Save & download avatars  
+- ⚡ Fast and lightweight (Vite + React)  
+- 📱 Fully responsive design for mobile & desktop  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+- **React.js** (Frontend library)  
+- **Vite** (Bundler & dev server)  
+- **CSS3** (Styling)  
+- **GitHub Pages** (Deployment)  
+
+---
+
+## 📂 Installation & Setup
+
+Clone the repository:
+```bash
+git clone https://github.com/Dharmendra7878/Avatar-Generator.git
+cd Avatar-Generator
